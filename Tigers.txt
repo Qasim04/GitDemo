@@ -2,6 +2,7 @@ Tigers have stripes.
 
 Tigers are the largest felines.
 
-Tigers eat meat.
-Tigers eat deer.
+Tigers eat grass in branch2
+
+tigers eat cows
 
